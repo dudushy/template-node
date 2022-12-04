@@ -1,0 +1,24 @@
+{
+  "name": "template-node",
+  "version": "1.0.0",
+  "description": "Template for Node projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node temp.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dudushy/template-node.git"
+  },
+  "keywords": [
+    "template",
+    "node"
+  ],
+  "author": "dudushy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dudushy/template-node/issues"
+  },
+  "homepage": "https://github.com/dudushy/template-node#readme"
+}
