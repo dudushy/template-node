@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/dudushy/template-node/issues"
   },
-  "homepage": "https://github.com/dudushy/template-node#readme"
+  "homepage": "https://github.com/dudushy/template-node#readme",
+  "devDependencies": {
+    "eslint": "^8.29.0"
+  }
 }
